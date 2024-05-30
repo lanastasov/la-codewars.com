@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/rust
+
 fn main() {
     println!("{}",abbrev_name("John Doe"));
 }
